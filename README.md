@@ -35,3 +35,8 @@ Only me and God knows how to use it. For now!
 - Selenium - webdriver
 - Jsoup - webpage parsing
 - Gson - converting from/to json
+
+## TO-DO 
+
+- [ ] - Full code rewrite
+- [ ] - Make more parsers

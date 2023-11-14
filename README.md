@@ -2,6 +2,8 @@
 
 ## About
 
+Part of list of repos: https://github.com/stars/msun-dev/lists/dotaconfigs
+
 App that parses Dota2 data providers like Dotabuff, Opendota, etc and creates config grid files that you can use in your Dota UI to display various info and data using hero grids.
 
 All weekly-generated config files available in this repository: <a href="https://github.com/msun-dev/java_dota_grid_configs/tree/main">java_dota_grid_configs</a>.
